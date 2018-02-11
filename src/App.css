@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.title {
+  color: white;
+  font-size: 25px;
+  background-color: skyblue;
+}
+
